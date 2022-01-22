@@ -1,2 +1,2 @@
-# very shitty first website using github
-why am i spending time making this
+# Test page
+This site has been repurposed for testing
